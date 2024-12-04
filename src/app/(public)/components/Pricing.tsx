@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 function Pricing() {
@@ -23,27 +24,63 @@ function Pricing() {
           </span>
           <div className="flex flex-col gap-y-7 text-[16px]">
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Sync unlimited devices
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               10 GB monthly uploads
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               200 MB max. note size
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Customize Home dashboard and access extra widgets
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Connect primary Google Calendar account
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Add due dates, reminders, and notifications to your tasks
             </span>
             <button className="py-4 px-10 border border-yellow-200 w-full max-w-[166px] h-[51px]">
@@ -62,27 +99,63 @@ function Pricing() {
           </span>
           <div className="flex flex-col gap-y-7 text-[16px]">
             <span className="flex items-center gap-x-5">
-              <img src="/Tick2.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick2.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Sync unlimited devices
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick2.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick2.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               10 GB monthly uploads
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick2.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick2.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               200 MB max. note size
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick2.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick2.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Customize Home dashboard and access extra widgets
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick2.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick2.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Connect primary Google Calendar account
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick2.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick2.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Add due dates, reminders, and notifications to your tasks
             </span>
             <button className="py-4 px-10 bg-[#4F9CF9] w-full max-w-[166px] h-[51px] rounded-lg">
@@ -101,27 +174,63 @@ function Pricing() {
           </span>
           <div className="flex flex-col gap-y-7 text-[16px]">
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Sync unlimited devices
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               10 GB monthly uploads
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               200 MB max. note size
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Customize Home dashboard and access extra widgets
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Connect primary Google Calendar account
             </span>
             <span className="flex items-center gap-x-5">
-              <img src="/Tick.png" alt="" />
+              <Image
+                width={1000}
+                height={1000}
+                src="/Tick.png"
+                alt=""
+                className="h-[20px] w-[20px]"
+              />
               Add due dates, reminders, and notifications to your tasks
             </span>
             <button className="py-4 px-10 border border-yellow-200 w-full max-w-[166px] h-[51px]">

@@ -1,5 +1,5 @@
-import Image from 'next/image'
-import React from 'react'
+import Image from "next/image";
+import React from "react";
 
 function Sponsors() {
   return (
@@ -38,7 +38,7 @@ function Sponsors() {
         />
       </div>
     </div>
-  )
+  );
 }
 
-export default Sponsors
+export default Sponsors;

@@ -10,7 +10,7 @@ function YourData() {
         </h1>
         <p className="text-[18px]">
           The app is open source and your notes are saved to an open format, so
-          you'll always have access to them. Uses End-To-End Encryption (E2EE)
+          you&apos;ll always have access to them. Uses End-To-End Encryption (E2EE)
           to secure your notes and ensure no-one but yourself can access them.
         </p>
         <button className="w-[227px] h-[60px] py-[16px] px-[24px] bg-[#4F9CF9] rounded-lg text-white flex justify-center items-center gap-x-2">

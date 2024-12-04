@@ -10,7 +10,8 @@ function HeroSec() {
               Get More Done with Whitespace
             </h2>
             <p className="text-xl text-white">
-              Project management software that enables your teams to collaborate, plan, analyze, and manage everyday tasks
+              Project management software that enables your teams to
+              collaborate, plan, analyze, and manage everyday tasks
             </p>
           </span>
           <button className="w-[227px] h-[60px] py-[16px] px-[24px] bg-[#4F9CF9] rounded-lg text-white flex justify-center items-center gap-x-2">
